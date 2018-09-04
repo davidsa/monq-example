@@ -1,0 +1,13 @@
+{
+  "name": "monq-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "monq": "^0.3.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}
